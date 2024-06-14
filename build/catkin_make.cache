@@ -1,0 +1,2 @@
+eppacher_hw2:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations:turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr
+-DCATKIN_DEVEL_PREFIX=/home/kevin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kevin/catkin_ws/install -G Unix Makefiles

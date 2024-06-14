@@ -1,0 +1,13 @@
+\subsubsection usage Usage
+\verbatim
+<node name="eppacher_hw2" pkg="eppacher_hw2" type="eppacher_hw2">
+  <param name="x_param" type="double" value="0.0" />
+  <param name="y_param" type="double" value="0.0" />
+  <param name="theta_goal_param" type="int" value="0" />
+  <param name="rho_param" type="double" value="0.01" />
+  <param name="alpha_param" type="double" value="0.3" />
+  <param name="beta_param" type="double" value="0.1" />
+  <param name="turn_on_turn_off" type="bool" value="False" />
+</node>
+\endverbatim
+
